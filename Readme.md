@@ -18,5 +18,5 @@ Data on baby names from the United States is provided and I have to write a prog
 * A better grasp of Java syntax
 * Breaking down a program into managable funtions
 * Dealing with multiple files 
-* Manupilating strings
+* Manipulating strings
 * Reading/writing CSV files with Apache Commons CSV (org.apache.commons.csv) 
