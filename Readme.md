@@ -15,7 +15,7 @@ Data on baby names from the United States is provided and I have to write a prog
 
 
 ## What I learned
-..* A better grasp of Java syntax
-..* Breaking down a program into managable funtions
-..* Dealing with multiple files 
-..* Reading/writing CSV files with Apache Commons CSV (org.apache.commons.csv) 
+* A better grasp of Java syntax
+* Breaking down a program into managable funtions
+* Dealing with multiple files 
+* Reading/writing CSV files with Apache Commons CSV (org.apache.commons.csv) 
