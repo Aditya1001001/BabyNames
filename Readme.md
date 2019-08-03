@@ -1,9 +1,9 @@
 # Mini-Project:BabyNames
 
 
-## Task-
+## Task
 
-The datafiles give information on the first names of people born in a particular year. We have data from 1880 through 2014 on both boys and girls names. 
+Data on baby names from the United States is provided and I have to write a program with fuctions to answer questions about this data. The datafiles give information on the first names of people born in a particular year. We have data from 1880 through 2014 on both boys and girls names. 
 
 1. Write the method totalBirths to  print the number of unique girls names , the number of unique boys names and the total names in the file.
 2. Write the method named getRank that has three parameters: an integer named year , a string named name , and a string named gender (F for female and M for male). This method returns the rank of the name in the file for the given gender, where rank 1 is the name with the largest number of births. If the name is not in the file, then 1 is returned.
@@ -14,7 +14,8 @@ The datafiles give information on the first names of people born in a particular
 7. Write the method getTotalBirthsRankedHigher that has three parameters: an integer named year , a string named name , and a string named gender (F for female and M for male). This method returns an integer, the total number of births of those names with the same gender and same year who are ranked higher than name .
 
 
-## What I learned-
+## What I learned
 ..* A better grasp of Java syntax
+..* Breaking down a program into managable funtions
 ..* Dealing with multiple files 
 ..* Reading/writing CSV files with Apache Commons CSV (org.apache.commons.csv) 
